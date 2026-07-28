@@ -1,4 +1,4 @@
-from layer_fsspec import *  # noqa
+from layer_fsspec import *
 
 
 def test_all():
